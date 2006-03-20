@@ -1,0 +1,15 @@
+bin/metapatch
+Build.PL
+Changes
+lib/Template/Patch.pm
+MANIFEST
+MANIFEST.SKIP
+META.yml
+README
+t/00-load.t
+t/01-basic.t
+t/basic1.mp
+t/boilerplate.t
+t/pod-coverage.t
+t/pod.t
+SIGNATURE    Added here by Module::Build
