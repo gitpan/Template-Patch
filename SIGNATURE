@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.50.
+signed via the Module::Signature module, version 0.55.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,14 +14,14 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 025979dd14a9ea2ad6bcdae6c4e864cb0e9131aa Build.PL
-SHA1 1bf2bf1bed73c5edc7b1a232f9496e74dd150804 Changes
-SHA1 4871b660de50180931f8fd8f10485fdb3153c49d MANIFEST
-SHA1 c9a9a2c30a50293fcfb29d947bdd14dc5905f889 MANIFEST.SKIP
-SHA1 7af2516e4a1456e069070bc6ec31d1982e855aa4 META.yml
+SHA1 f6d1d4cc032b5eb6d25051090b0e982eb6a585d6 Build.PL
+SHA1 7c7881d5b9e22e9be7ee61a6488c9c93f5e20fa3 Changes
+SHA1 af2458d4cf355f6328d6cb58e0f7168495af4de0 MANIFEST
+SHA1 2eadf9db47c8d1e311fc1a727018858e7436eee2 MANIFEST.SKIP
+SHA1 2a34978b8eaa7d15507deece19c822405f9ef2c2 META.yml
 SHA1 81779e9d847e6662b8f760eb1050be461b418301 README
 SHA1 3674b14f96f867e1b5b8ac44aff9ba4df8bc912b bin/metapatch
-SHA1 13f76f9ba57d8dcc7e7cd9ea4453d1edf5277f8b lib/Template/Patch.pm
+SHA1 9519ef1c9875a165cb5e1b08f3140dafc3634ac1 lib/Template/Patch.pm
 SHA1 52f08556609bfee2ddf52d53b32015781861f492 t/00-load.t
 SHA1 1824bb1ec8851c156709555e2e06e6717e65ff56 t/01-basic.t
 SHA1 063df4893f5da55058879dd29b8aa1591b193540 t/basic1.mp
@@ -29,9 +29,9 @@ SHA1 ed5a3d046e4563fc7c8afdd75a70cb0e39aa39f4 t/boilerplate.t
 SHA1 6474d0d48688227a97313ca21115f98546a3d96b t/pod-coverage.t
 SHA1 0190346d7072d458c8a10a45c19f86db641dcc48 t/pod.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.2.2 (GNU/Linux)
+Version: GnuPG v1.4.6 (GNU/Linux)
 
-iD8DBQFEIcn2N2uCuGP2mw4RAggCAKDD0AwkHwD1O+tJ7P1coauFG2na2gCgpGt1
-6TaREYI6mX1DTGG+/M1Oy3g=
-=hB++
+iD8DBQFJdMoPN2uCuGP2mw4RAku5AJwMKrRtxZzoxLfIk6K6Ut72Gn3XyACfURLv
+aWB+/afsqeFETlr4sa/NNcM=
+=9As6
 -----END PGP SIGNATURE-----
